@@ -1,6 +1,14 @@
-### About
-__Dracula__ color scheme for [LightPaper](http://lightpaper.ashokgelal.com) by [@ashokgelal](http://twitter.com/ashokgelal)
+# Dracula for [LightPaper](http://lightpaper.42squares.in)
 
-### Theme installation
+> A dark theme for [LightPaper](http://lightpaper.42squares.in).
+
+![Screenshot](./Screenshot.png)
+
+## Install
+
 1. Copy `Dracula.txt` file to `~/.lightpaper/Themes`.
 2. Open _LightPaper_ and go to `LightPaper>Preferences>Editor` and select `Dracula` style.
+
+## License
+
+[MIT License](./LICENSE)
