@@ -2,12 +2,11 @@
 
 > A dark theme for [LightPaper](http://lightpaper.42squares.in).
 
-![Screenshot](./Screenshot.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/lightpaper.png)
 
 ## Install
 
-1. Copy `Dracula.txt` file to `~/.lightpaper/Themes`.
-2. Open _LightPaper_ and go to `LightPaper>Preferences>Editor` and select `Dracula` style.
+All instructions can be found at [draculatheme.com/lightpaper](https://draculatheme.com/lightpaper).
 
 ## Team
 
