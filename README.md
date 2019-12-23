@@ -2,7 +2,7 @@
 
 > A dark theme for [LightPaper](http://lightpaper.42squares.in).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/lightpaper.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
